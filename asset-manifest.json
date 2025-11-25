@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mvreact/static/css/main.32e61399.css",
+    "main.js": "/mvreact/static/js/main.e313af53.js",
+    "index.html": "/mvreact/index.html",
+    "main.32e61399.css.map": "/mvreact/static/css/main.32e61399.css.map",
+    "main.e313af53.js.map": "/mvreact/static/js/main.e313af53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e61399.css",
+    "static/js/main.e313af53.js"
+  ]
+}
